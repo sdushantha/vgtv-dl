@@ -7,7 +7,7 @@
 </a>
 </p>
 
-## :floppy_disk: Installation
+## Installation
 
 ```bash
 # clone the repo
@@ -20,7 +20,7 @@ $ cd vgtv-dl
 $ pip3 install -r requirements.txt
 ```
 
-## :hammer: Usage
+## Usage
 ```
 usage: vgtv-dl.py [-h] url
 ```
@@ -39,7 +39,7 @@ python3 vgtv-dl.py https://www.vg.no/nyheter/innenriks/i/7lOwEV/nrk-politikere-b
 
 ```
 
-## :scroll: License
+## License
 MIT License
 
 Copyright (c) 2018 Siddharth Dushantha
